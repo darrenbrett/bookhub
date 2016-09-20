@@ -30,7 +30,7 @@ import { AboutComponent } from './about/about.component';
     FormsModule,
     ReactiveFormsModule,
     HttpModule,
-    routing
+    routing,
   ],
   providers: [ appRoutingProviders ],
   bootstrap: [AppComponent]
